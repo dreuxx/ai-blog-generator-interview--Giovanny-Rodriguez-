@@ -52,5 +52,5 @@ Similar to this site: https://www.outrank.so/
 1. Clone the repository:
    ```bash
    git clone https://github.com/dreuxx/ai-blog-generator-interview--Giovanny-Rodriguez-.git
-   cd ai-blog-generator-interview--Giovanny Rodriguez-
+   cd ai-blog-generator-interview--Giovanny-Rodriguez-
    ```
