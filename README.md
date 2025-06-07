@@ -56,5 +56,7 @@ Similar to this site: https://www.outrank.so/
    ```
 2. API
    ```bash
-   echo "OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" > .env
-```
+   echo "OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" > .env ```
+3. ```bash
+   python app.py
+   ```
