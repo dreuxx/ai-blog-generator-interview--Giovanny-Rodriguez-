@@ -64,6 +64,8 @@ Similar to this site: https://www.outrank.so/
 4. ```bash
     Ex: http://localhost:5000/generate?keyword=machine learning Tutorial
    ```
+**Running the Scheduler**
+The scheduler is set to run every day at 9 AM.  To trigger an immediate post generation for testing purposes, you can run the scheduler with the --now flag
 5. ```bash
     python scheduler.py --now
    ```
