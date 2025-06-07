@@ -71,4 +71,10 @@ The scheduler is set to run every day at 9 AM.  To trigger an immediate post gen
     python scheduler.py --now
    ```
 **Daily Automation Scheduler**
-A key feature of this project is the ability to automate post generation on a daily basis.  The scheduler uses a predefined list of keywords from the keywords.json file, selecting a new one each day. 
+A key feature of this project is the ability to automate post generation on a daily basis.  The scheduler uses a predefined list of keywords from the keywords.json file, selecting a new one each day.
+
+**Viewing Generated Posts**
+The generated markdown files are saved in the generated_posts/ directory. You can view a file using a command like cat. 
+```Bash
+cat generated_posts/wireless_earbuds_1654621800.md
+```
