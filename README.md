@@ -56,7 +56,14 @@ Similar to this site: https://www.outrank.so/
    ```
 2. API
    ```bash
-   echo "OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" > .env ```
+   echo "OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" > .env
+   ```
 3. ```bash
    python app.py
+   ```
+4. ```bash
+    Ex: http://localhost:5000/generate?keyword=machine learning
+   ```
+5. ```bash
+    python scheduler.py --now
    ```
