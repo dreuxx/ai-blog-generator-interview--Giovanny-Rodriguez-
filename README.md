@@ -62,7 +62,7 @@ Similar to this site: https://www.outrank.so/
    python app.py
    ```
 4. ```bash
-    Ex: http://localhost:5000/generate?keyword=machine learning
+    Ex: http://localhost:5000/generate?keyword=machine learning Tutorial
    ```
 5. ```bash
     python scheduler.py --now
