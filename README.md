@@ -67,3 +67,5 @@ Similar to this site: https://www.outrank.so/
 5. ```bash
     python scheduler.py --now
    ```
+**Daily Automation Scheduler**
+A key feature of this project is the ability to automate post generation on a daily basis.  The scheduler uses a predefined list of keywords from the keywords.json file, selecting a new one each day. 
